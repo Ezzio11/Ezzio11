@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ezz Eldin
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Statistics
+- 🌱 I’m currently learning Statistical data analysis
 - 📫 How to reach me: https://www.linkedin.com/in/ezz-eldin-ahmed-47a849284/
 
 <!---
